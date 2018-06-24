@@ -1,2 +1,2 @@
-var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world';
+var myhair = document.querySelector('h1');
+myhair.textContent = 'Hello world';
