@@ -1,7 +1,3 @@
-document.querySelector('html').onclick = function(){
-	alert('良い...快適 !');
-}
-
 var myImage = document.querySelector('img');
 
 myImage.onclick = function() {
